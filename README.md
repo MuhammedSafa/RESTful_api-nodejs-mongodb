@@ -1,4 +1,4 @@
-# RESTfull_api-nodejs-mongodb
+# RESTful_api-nodejs-mongodb
 
 <ol>
   <li>Install nodejs version: v16.16.0</li>
